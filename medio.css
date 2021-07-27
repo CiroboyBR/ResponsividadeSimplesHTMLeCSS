@@ -1,0 +1,33 @@
+body{
+	margin-top: 20px;
+	background-color: #99ddaa;
+}
+
+h1{
+	font-family: Verdana, sans-serife;
+	font-size: 16pt;
+	color: blue;
+	text-align: center;
+	border-style: solid;
+	border-color: green;
+	border-width: medium;
+}
+.container{
+	font-family: Arial, sans-serife;
+	font-size: 16pt;
+	font-weight: bold;
+	color: #723456;
+	text-align: left;
+	
+	width: 800px;
+	height: 400px;
+	background-color: #bbbbbb;
+	position: relative;
+	margin: 0 auto; /* layaut centralizado */
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border: 25px solid cyan;
+	padding: 15px;
+	
+	
+}

@@ -1,0 +1,22 @@
+body{
+	background-color: #ccddaa;
+	font-family: Arial, Helvetica, sans-serife;
+	color: #330066;
+	}
+	
+h1{
+	font-family: Verdana, sans-serife;
+	font-size: 16pt;
+	color: blue;
+	text-align: center;
+	text-decoration: underline;
+	border-style: solid;
+	border-color: green;
+	border-width: medium;
+	}
+	
+#main{
+	font-family: Arial, sans-serife;
+	font-size: 14pt;
+	color: red;
+	}
